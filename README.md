@@ -1,1 +1,1 @@
-# leo-git-sf1
+## this repo is to store snowflake objects
